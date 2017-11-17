@@ -1,0 +1,28 @@
+Arguments: 
+  /Users/kevknopp/.nvm/versions/node/v5.12.0/bin/node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js add alfy-test
+
+PATH: 
+  /Users/kevknopp/.nvm/versions/node/v5.12.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  5.12.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npm.apple.com npm.apple.com:443
+      at errnoException (dns.js:26:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
